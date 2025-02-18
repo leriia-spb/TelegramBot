@@ -1,0 +1,33 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/valeriie/Scala/Project/target/scala-2.13/telegrambot_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chat.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/valeriie/Scala/Project/target/scala-2.13/classes/Chat.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TelegramBot$anon$importedDecoder$macro$41$1$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/valeriie/Scala/Project/target/scala-2.13/classes/TelegramBot$anon$importedDecoder$macro$41$1$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TelegramBot$anon$importedDecoder$macro$41$1$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/valeriie/Scala/Project/target/scala-2.13/classes/TelegramBot$anon$importedDecoder$macro$41$1$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Update$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/valeriie/Scala/Project/target/scala-2.13/classes/Update$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TelegramBot$anon$importedDecoder$macro$41$1$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/valeriie/Scala/Project/target/scala-2.13/classes/TelegramBot$anon$importedDecoder$macro$41$1$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TelegramResponse.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/valeriie/Scala/Project/target/scala-2.13/classes/TelegramResponse.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TelegramBot$anon$importedDecoder$macro$41$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/valeriie/Scala/Project/target/scala-2.13/classes/TelegramBot$anon$importedDecoder$macro$41$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Message.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/valeriie/Scala/Project/target/scala-2.13/classes/Message.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TelegramResponse$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/valeriie/Scala/Project/target/scala-2.13/classes/TelegramResponse$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TelegramBot$anon$importedDecoder$macro$41$1$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/valeriie/Scala/Project/target/scala-2.13/classes/TelegramBot$anon$importedDecoder$macro$41$1$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Chat$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/valeriie/Scala/Project/target/scala-2.13/classes/Chat$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TelegramBot.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/valeriie/Scala/Project/target/scala-2.13/classes/TelegramBot.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Update.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/valeriie/Scala/Project/target/scala-2.13/classes/Update.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TelegramBot$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/valeriie/Scala/Project/target/scala-2.13/classes/TelegramBot$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Message$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/valeriie/Scala/Project/target/scala-2.13/classes/Message$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
